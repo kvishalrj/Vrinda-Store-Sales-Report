@@ -1,4 +1,4 @@
-![Badge](https://img.shields.io/badge/Project--14-Vrinda--Store-blue)
+![Badge](https://img.shields.io/badge/Project--14-Data--Analysis-blue)
 # Vrinda Store Sales Insights💻
 ### Hey, I am [**Vishal**](https://www.linkedin.com/in/vishal-kumar-62146b230/) 🙂 
 ### This is  my 14th live Project.
