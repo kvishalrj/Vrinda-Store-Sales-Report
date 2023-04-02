@@ -15,4 +15,4 @@ This is my first Data Analytics Project.
 
 ## Screenshot of the Project 👇
 ![](/Vrinda%20Store.png)
-# Vrinda-Store-Sales-Report
+
