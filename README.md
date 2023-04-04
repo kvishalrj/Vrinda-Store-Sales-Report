@@ -5,6 +5,8 @@
 ### I made this project using ![Ms Excel and Ms Word](https://img.shields.io/badge/Excel%20%26-Word%20-blue)
 
 This is my first Data Analytics Project. 
+In this project I used the sales data of Vrinda Store at different platforms to improve their business.
+By analyzing these data I made some conclusion which is in Sample Insights docx.
 
 ![](./screenshot/undraw_programmer_re_owql.svg)
 
